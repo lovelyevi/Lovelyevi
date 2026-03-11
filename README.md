@@ -20,6 +20,28 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/john-evidence-akharia">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
+
+<a href="https://x.com/e_dev0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+</a>
+
+<a href="https://www.tiktok.com/@e_dev0">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="30"/>
+</a>
+
+<a href="https://wa.me/message/V6GDZ2AKFY3UK1">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="30"/>
+</a>
+
+</p>
+
 ## 📌 Current Project
 ### Market Price Plus
 A platform that helps users:
